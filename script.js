@@ -51,4 +51,4 @@ document
     }
   });
 
-weather.fetchWeather("Ambala");
+weather.fetchWeather("Delhi");
